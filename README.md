@@ -29,7 +29,6 @@ I’m a DevOps Engineer passionate about cloud computing, automation, CI/CD, and
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-EE0000?style=for-the-badge&logo=aqua&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0072C6?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
